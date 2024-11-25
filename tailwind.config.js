@@ -10,12 +10,9 @@ module.exports = {
         'textMain' : '#FF73A6',
       },
       fontFamily: {
-        "Dana" : "Dana",
-        "DanaMedium" : "Dana Medium",
-        "DanaDemiBold" : "Dana DemiBold",
-        "MorabbaLight" : "Morabba Light",
-        "MorabbaMedium" : "Morabba Medium",
-        "MorabbaBold" : "Morabba Bold",
+        "Vazir" : "Vazir",
+        "VazirMedium" : "Vazir Medium",
+        "VazirBold" : "Vazir Bold",
         "MarcellusScRegular" : "MarcellusSc Regular",
         "RamblaBold" : "Rambla Bold"
       },
