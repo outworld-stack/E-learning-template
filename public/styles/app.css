@@ -449,7 +449,7 @@ video {
 @font-face {
   font-family: "Dana";
 
-  src: url("../fonts/DanaFaNum-Regular.woff2") format('woff2');
+  src: local("Vazir"), url("../fonts/DanaFaNum-Regular.woff2") format('woff2');
 
   font-display:swap;
 }
